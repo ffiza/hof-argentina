@@ -7,8 +7,8 @@
 		[
 			{
 				"Start": "25 May 1810",
-				"End": "26 August 1811",
-			},
+				"End": "26 August 1811"
+			}
 		]
 	},
 	{
@@ -19,7 +19,7 @@
 		[
 			{
 				"Start": "26 August 1811",
-				"End": "23 September 1811",
+				"End": "23 September 1811"
 			}
 		]
 	},
@@ -31,7 +31,7 @@
 		[
 			{
 				"Start": "23 September 1811",
-				"End": "8 October 1812",
+				"End": "8 October 1812"
 			}
 		]
 	},
@@ -43,19 +43,19 @@
 		[
 			{
 				"Start": "23 September 1811",
-				"End": "8 October 1812",
+				"End": "8 October 1812"
 			},
 			{
 				"Start": "18 April 1815",
-				"End": "20 April 1815",
+				"End": "20 April 1815"
 			},
 			{
 				"Start": "18 February 1820",
-				"End": "6 March 1820",
+				"End": "6 March 1820"
 			},
 			{
 				"Start": "11 March 1820",
-				"End": "2 May 1820",
+				"End": "2 May 1820"
 			}
 		]
 	},
@@ -67,11 +67,11 @@
 		[
 			{
 				"Start": "23 September 1811",
-				"End": "23 March 1812",
+				"End": "23 March 1812"
 			},
 			{
 				"Start": "8 October 1812",
-				"End": "20 February 1813",
+				"End": "20 February 1813"
 			}
 		]
 	},
@@ -83,11 +83,11 @@
 		[
 			{
 				"Start": "23 March 1812",
-				"End": "8 October 1812",
+				"End": "8 October 1812"
 			},
 			{
 				"Start": "9 July 1816",
-				"End": "9 June 1819",
+				"End": "9 June 1819"
 			}
 		]
 	},
@@ -99,19 +99,19 @@
 		[
 			{
 				"Start": "8 October 1821",
-				"End": "31 January 1814",
+				"End": "31 January 1814"
 			}
 		]
 	},
 	{
 		"Name": "Antonio Álvarez Jonte",
-		"BirthDate": "1784",
+		"BirthDate": "1 January 1784",
 		"DeathDate": "18 October 1820",
 		"Terms":
 		[
 			{
 				"Start": "8 October 1812",
-				"End": "19 August 1813",
+				"End": "19 August 1813"
 			}
 		]
 	},
@@ -123,20 +123,20 @@
 		[
 			{
 				"Start": "19 August 1813",
-				"End": "9 January 1815",
-			},
+				"End": "9 January 1815"
+			}
 		]
 	},
 	{
 		"Name": "José Julián Pérez",
 		"BirthDate": "16 February 1780",
-		"DeathDate": "August 1840",
+		"DeathDate": "1 August 1840",
 		"Terms":
 		[
 			{
 				"Start": "20 February 1813",
-				"End": "5 November 1813",
-			},
+				"End": "5 November 1813"
+			}
 		]
 	},
 	{
@@ -147,8 +147,8 @@
 		[
 			{
 				"Start": "5 November 1813",
-				"End": "31 January 1814",
-			},
+				"End": "31 January 1814"
+			}
 		]
 	},
 	{
@@ -159,8 +159,8 @@
 		[
 			{
 				"Start": "9 January 1815",
-				"End": "18 April 1815",
-			},
+				"End": "18 April 1815"
+			}
 		]
 	},
 	{
@@ -171,8 +171,8 @@
 		[
 			{
 				"Start": "18 April 1815",
-				"End": "20 April 1815",
-			},
+				"End": "20 April 1815"
+			}
 		]
 	},
 	{
@@ -183,11 +183,11 @@
 		[
 			{
 				"Start": "18 April 1815",
-				"End": "20 April 1815",
+				"End": "20 April 1815"
 			},
 			{
 				"Start": "11 February 1820",
-				"End": "18 February 1820",
+				"End": "18 February 1820"
 			}
 		]
 	},
@@ -199,11 +199,11 @@
 		[
 			{
 				"Start": "20 April 1815",
-				"End": "21 April 1815",
+				"End": "21 April 1815"
 			},
 			{
 				"Start": "9 June 1819",
-				"End": "1 February 1820",
+				"End": "1 February 1820"
 			}
 		]
 	},
@@ -215,8 +215,8 @@
 		[
 			{
 				"Start": "21 April 1815",
-				"End": "16 April 1816",
-			},
+				"End": "16 April 1816"
+			}
 		]
 	},
 	{
@@ -227,8 +227,8 @@
 		[
 			{
 				"Start": "16 April 1816",
-				"End": "9 July 1816",
-			},
+				"End": "9 July 1816"
+			}
 		]
 	},
 	{
@@ -239,8 +239,8 @@
 		[
 			{
 				"Start": "1 February 1820",
-				"End": "11 February 1820",
-			},
+				"End": "11 February 1820"
+			}
 		]
 	},
 	{
@@ -251,11 +251,11 @@
 		[
 			{
 				"Start": "6 March 1820",
-				"End": "11 March 1820",
+				"End": "11 March 1820"
 			},
 			{
 				"Start": "5 December 1832",
-				"End": "4 November 1833",
+				"End": "4 November 1833"
 			}
 		]
 	},
@@ -267,8 +267,8 @@
 		[
 			{
 				"Start": "2 May 1820",
-				"End": "23 June 1820",
-			},
+				"End": "23 June 1820"
+			}
 		]
 	},
 	{
@@ -279,8 +279,8 @@
 		[
 			{
 				"Start": "20 June 1820",
-				"End": "29 June 1820",
-			},
+				"End": "29 June 1820"
+			}
 		]
 	},
 	{
@@ -291,11 +291,11 @@
 		[
 			{
 				"Start": "29 June 1820",
-				"End": "20 September 1820",
+				"End": "20 September 1820"
 			},
 			{
 				"Start": "18 August 1827",
-				"End": "1 December 1828",
+				"End": "1 December 1828"
 			}
 		]
 	},
@@ -307,8 +307,8 @@
 		[
 			{
 				"Start": "20 September 1820",
-				"End": "2 April 1824",
-			},
+				"End": "2 April 1824"
+			}
 		]
 	},
 	{
@@ -319,8 +319,8 @@
 		[
 			{
 				"Start": "2 April 1824",
-				"End": "7 February 1826",
-			},
+				"End": "7 February 1826"
+			}
 		]
 	},
 	{
@@ -331,8 +331,8 @@
 		[
 			{
 				"Start": "8 February 1826",
-				"End": "27 June 1827",
-			},
+				"End": "27 June 1827"
+			}
 		]
 	},
 	{
@@ -343,11 +343,11 @@
 		[
 			{
 				"Start": "7 July 1827",
-				"End": "18 August 1827",
+				"End": "18 August 1827"
 			},
 			{
 				"Start": "3 February 1852",
-				"End": "6 April 1852",
+				"End": "6 April 1852"
 			}
 		]
 	},
@@ -359,8 +359,8 @@
 		[
 			{
 				"Start": "1 December 1828",
-				"End": "26 June 1829",
-			},
+				"End": "26 June 1829"
+			}
 		]
 	},
 	{
@@ -371,11 +371,11 @@
 		[
 			{
 				"Start": "26 June 1829",
-				"End": "6 December 1829",
+				"End": "6 December 1829"
 			},
 			{
 				"Start": "4 November 1833",
-				"End": "27 June 1834",
+				"End": "27 June 1834"
 			}
 		]
 	},
@@ -387,24 +387,24 @@
 		[
 			{
 				"Start": "6 December 1829",
-				"End": "5 December 1832",
+				"End": "5 December 1832"
 			},
 			{
 				"Start": "7 March 1835",
-				"End": "3 February 1852",
+				"End": "3 February 1852"
 			}
 		]
 	},
 	{
 		"Name": "Manuel Vicente Mazza",
-		"BirthDate": "1779",
+		"BirthDate": "1 January 1779",
 		"DeathDate": "27 June 1839",
 		"Terms":
 		[
 			{
 				"Start": "27 June 1834",
-				"End": "7 March 1835",
-			},
+				"End": "7 March 1835"
+			}
 		]
 	},
 	{
@@ -415,8 +415,8 @@
 		[
 			{
 				"Start": "6 April 1852",
-				"End": "5 March 1860",
-			},
+				"End": "5 March 1860"
+			}
 		]
 	},
 	{
@@ -427,8 +427,8 @@
 		[
 			{
 				"Start": "5 March 1860",
-				"End": "5 November 1861",
-			},
+				"End": "5 November 1861"
+			}
 		]
 	},
 	{
@@ -439,8 +439,8 @@
 		[
 			{
 				"Start": "5 November 1861",
-				"End": "12 December 1861",
-			},
+				"End": "12 December 1861"
+			}
 		]
 	},
 	{
@@ -451,8 +451,8 @@
 		[
 			{
 				"Start": "12 December 1861",
-				"End": "12 October 1868",
-			},
+				"End": "12 October 1868"
+			}
 		]
 	},
 	{
@@ -463,9 +463,9 @@
 		[
 			{
 				"Start": "12 October 1868",
-				"End": "12 October 1874",
-			},
-		]
+				"End": "12 October 1874"
+			}
+        ]
 	},
 	{
 		"Name": "Nicolás Avellaneda",
@@ -475,8 +475,8 @@
 		[
 			{
 				"Start": "12 October 1874",
-				"End": "12 October 1880",
-			},
+				"End": "12 October 1880"
+			}
 		]
 	},
 	{
@@ -487,11 +487,11 @@
 		[
 			{
 				"Start": "12 October 1880",
-				"End": "12 October 1886",
+				"End": "12 October 1886"
 			},
 			{
 				"Start": "12 October 1898",
-				"End": "12 October 1904",
+				"End": "12 October 1904"
 			}
 		]
 	},
@@ -503,8 +503,8 @@
 		[
 			{
 				"Start": "12 October 1886",
-				"End": "6 August 1890",
-			},
+				"End": "6 August 1890"
+			}
 		]
 	},
 	{
@@ -515,8 +515,8 @@
 		[
 			{
 				"Start": "6 August 1890",
-				"End": "12 October 1892",
-			},
+				"End": "12 October 1892"
+			}
 		]
 	},
 	{
@@ -527,8 +527,8 @@
 		[
 			{
 				"Start": "12 October 1892",
-				"End": "22 January 1895",
-			},
+				"End": "22 January 1895"
+			}
 		]
 	},
 	{
@@ -539,8 +539,8 @@
 		[
 			{
 				"Start": "22 January 1895",
-				"End": "12 October 1898",
-			},
+				"End": "12 October 1898"
+			}
 		]
 	},
 	{
@@ -551,8 +551,8 @@
 		[
 			{
 				"Start": "12 October 1904",
-				"End": "12 March 1906",
-			},
+				"End": "12 March 1906"
+			}
 		]
 	},
 	{
@@ -563,8 +563,8 @@
 		[
 			{
 				"Start": "12 March 1906",
-				"End": "12 October 1910",
-			},
+				"End": "12 October 1910"
+			}
 		]
 	},
 	{
@@ -575,8 +575,8 @@
 		[
 			{
 				"Start": "12 October 1910",
-				"End": "9 August 1914",
-			},
+				"End": "9 August 1914"
+			}
 		]
 	},
 	{
@@ -587,8 +587,8 @@
 		[
 			{
 				"Start": "9 August 1914",
-				"End": "12 October 1916",
-			},
+				"End": "12 October 1916"
+			}
 		]
 	},
 	{
@@ -599,12 +599,12 @@
 		[
 			{
 				"Start": "12 October 1916",
-				"End": "12 October 1922",
+				"End": "12 October 1922"
 			},
 			{
 				"Start": "12 October 1928",
-				"End": "6 September 1930",
-			},
+				"End": "6 September 1930"
+			}
 		]
 	},
 	{
@@ -615,7 +615,7 @@
 		[
 			{
 				"Start": "12 October 1922",
-				"End": "12 October 1928",
+				"End": "12 October 1928"
 			}
 		]
 	},
@@ -627,8 +627,8 @@
 		[
 			{
 				"Start": "6 September 1930",
-				"End": "20 February 1932",
-			},
+				"End": "20 February 1932"
+			}
 		]
 	},
 	{
@@ -639,8 +639,8 @@
 		[
 			{
 				"Start": "20 February 1932",
-				"End": "20 February 1938",
-			},
+				"End": "20 February 1938"
+			}
 		]
 	},
 	{
@@ -651,8 +651,8 @@
 		[
 			{
 				"Start": "20 February 1938",
-				"End": "27 June 1942",
-			},
+				"End": "27 June 1942"
+			}
 		]
 	},
 	{
@@ -663,8 +663,8 @@
 		[
 			{
 				"Start": "27 June 1942",
-				"End": "4 June 1943",
-			},
+				"End": "4 June 1943"
+			}
 		]
 	},
 	{
@@ -675,8 +675,8 @@
 		[
 			{
 				"Start": "4 June 1943",
-				"End": "7 June 1943",
-			},
+				"End": "7 June 1943"
+			}
 		]
 	},
 	{
@@ -687,8 +687,8 @@
 		[
 			{
 				"Start": "7 June 1943",
-				"End": "9 March 1944",
-			},
+				"End": "9 March 1944"
+			}
 		]
 	},
 	{
@@ -699,8 +699,8 @@
 		[
 			{
 				"Start": "9 March 1944",
-				"End": "4 June 1946",
-			},
+				"End": "4 June 1946"
+			}
 		]
 	},
 	{
@@ -711,11 +711,11 @@
 		[
 			{
 				"Start": "4 June 1946",
-				"End": "19 September 1955",
+				"End": "19 September 1955"
 			},
 			{
 				"Start": "12 October 1973",
-				"End": "1 July 1974",
+				"End": "1 July 1974"
 			}
 		]
 	},
@@ -727,8 +727,8 @@
 		[
 			{
 				"Start": "20 September 1955",
-				"End": "13 November 1955",
-			},
+				"End": "13 November 1955"
+			}
 		]
 	},
 	{
@@ -739,8 +739,8 @@
 		[
 			{
 				"Start": "13 November 1955",
-				"End": "1 May 1958",
-			},
+				"End": "1 May 1958"
+			}
 		]
 	},
 	{
@@ -751,8 +751,8 @@
 		[
 			{
 				"Start": "1 May 1958",
-				"End": "29 March 1962 ",
-			},
+				"End": "29 March 1962"
+			}
 		]
 	},
 	{
@@ -763,8 +763,8 @@
 		[
 			{
 				"Start": "29 March 1962",
-				"End": "12 October 1963",
-			},
+				"End": "12 October 1963"
+			}
 		]
 	},
 	{
@@ -775,8 +775,8 @@
 		[
 			{
 				"Start": "12 October 1963",
-				"End": "28 June 1966",
-			},
+				"End": "28 June 1966"
+			}
 		]
 	},
 	{
@@ -787,8 +787,8 @@
 		[
 			{
 				"Start": "29 June 1966",
-				"End": "8 June 1970",
-			},
+				"End": "8 June 1970"
+			}
 		]
 	},
 	{
@@ -799,8 +799,8 @@
 		[
 			{
 				"Start": "18 June 1970",
-				"End": "23 March 1971",
-			},
+				"End": "23 March 1971"
+			}
 		]
 	},
 	{
@@ -811,8 +811,8 @@
 		[
 			{
 				"Start": "26 March 1971",
-				"End": "25 May 1973",
-			},
+				"End": "25 May 1973"
+			}
 		]
 	},
 	{
@@ -823,8 +823,8 @@
 		[
 			{
 				"Start": "25 May 1973",
-				"End": "13 July 1973",
-			},
+				"End": "13 July 1973"
+			}
 		]
 	},
 	{
@@ -835,8 +835,8 @@
 		[
 			{
 				"Start": "13 July 1973",
-				"End": "12 October 1973",
-			},
+				"End": "12 October 1973"
+			}
 		]
 	},
 	{
@@ -847,8 +847,8 @@
 		[
 			{
 				"Start": "1 July 1974",
-				"End": "24 March 1976",
-			},
+				"End": "24 March 1976"
+			}
 		]
 	},
 	{
@@ -859,8 +859,8 @@
 		[
 			{
 				"Start": "29 March 1976",
-				"End": "29 March 1981",
-			},
+				"End": "29 March 1981"
+			}
 		]
 	},
 	{
@@ -871,8 +871,8 @@
 		[
 			{
 				"Start": "29 March 1981",
-				"End": "11 December 1981",
-			},
+				"End": "11 December 1981"
+			}
 		]
 	},
 	{
@@ -883,8 +883,8 @@
 		[
 			{
 				"Start": "11 December 1981",
-				"End": "22 December 1981",
-			},
+				"End": "22 December 1981"
+			}
 		]
 	},
 	{
@@ -895,8 +895,8 @@
 		[
 			{
 				"Start": "22 December 1981",
-				"End": "18 June 1982",
-			},
+				"End": "18 June 1982"
+			}
 		]
 	},
 	{
@@ -907,8 +907,8 @@
 		[
 			{
 				"Start": "18 June 1982",
-				"End": "1 July 1982",
-			},
+				"End": "1 July 1982"
+			}
 		]
 	},
 	{
@@ -919,8 +919,8 @@
 		[
 			{
 				"Start": "1 July 1982",
-				"End": "10 December 1983",
-			},
+				"End": "10 December 1983"
+			}
 		]
 	},
 	{
@@ -931,8 +931,8 @@
 		[
 			{
 				"Start": "10 December 1983",
-				"End": "8 July 1989",
-			},
+				"End": "8 July 1989"
+			}
 		]
 	},
 	{
@@ -943,8 +943,8 @@
 		[
 			{
 				"Start": "8 July 1989",
-				"End": "10 December 1999",
-			},
+				"End": "10 December 1999"
+			}
 		]
 	},
 	{
@@ -955,20 +955,20 @@
 		[
 			{
 				"Start": "10 December 1999",
-				"End": "21 December 2001",
-			},
+				"End": "21 December 2001"
+			}
 		]
 	},
 	{
 		"Name": "Ramón Puerta",
-		"BirthDate": "9 September 1951 ",
+		"BirthDate": "9 September 1951",
 		"DeathDate": "",
 		"Terms":
 		[
 			{
 				"Start": "21 December 2001",
-				"End": "23 December 2001",
-			},
+				"End": "23 December 2001"
+			}
 		]
 	},
 	{
@@ -979,8 +979,8 @@
 		[
 			{
 				"Start": "23 December 2001",
-				"End": "30 December 2001",
-			},
+				"End": "30 December 2001"
+			}
 		]
 	},
 	{
@@ -991,8 +991,8 @@
 		[
 			{
 				"Start": "30 December 2001",
-				"End": "2 January 2002",
-			},
+				"End": "2 January 2002"
+			}
 		]
 	},
 	{
@@ -1003,8 +1003,8 @@
 		[
 			{
 				"Start": "2 January 2002",
-				"End": "25 May 2003",
-			},
+				"End": "25 May 2003"
+			}
 		]
 	},
 	{
@@ -1015,8 +1015,8 @@
 		[
 			{
 				"Start": "25 May 2003",
-				"End": "10 December 2007",
-			},
+				"End": "10 December 2007"
+			}
 		]
 	},
 	{
@@ -1027,8 +1027,8 @@
 		[
 			{
 				"Start": "10 December 2007",
-				"End": "10 December 2015",
-			},
+				"End": "10 December 2015"
+			}
 		]
 	},
 	{
@@ -1039,8 +1039,8 @@
 		[
 			{
 				"Start": "10 December 2015",
-				"End": "10 December 2019",
-			},
+				"End": "10 December 2019"
+			}
 		]
 	},
 	{
@@ -1051,8 +1051,8 @@
 		[
 			{
 				"Start": "10 December 2019",
-				"End": "10 December 2023 ",
-			},
+				"End": "10 December 2023"
+			}
 		]
 	},
 	{
@@ -1063,8 +1063,8 @@
 		[
 			{
 				"Start": "10 December 2023",
-				"End": "",
-			},
+				"End": ""
+			}
 		]
-	},
+	}
 ]
